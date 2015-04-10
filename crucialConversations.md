@@ -2,6 +2,7 @@ title: Crucial Conversations
 author:
   name: Carla Suárez
   twitter: carlast22
+  url: http://carlast22.github.io/conversacionesCruciales
 style: style.css
 output: index.html
 
